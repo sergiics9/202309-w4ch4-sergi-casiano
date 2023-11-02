@@ -24,6 +24,22 @@ Separa todo en los siguientes componentes:
 
 Entrega también un listado de responsabilidades en el README
 
+- **Info**
+- ¿Qué renderiza?
+- ¿Qúe interacciones del usuario tiene?
+- ¿Qué información recibe y desde donde?
+
+- **Display**
+- ¿Qué renderiza?
+- ¿Qúe interacciones del usuario tiene?
+- ¿Qué información recibe y desde donde?
+
+- **Actions**
+- ¿Qué renderiza?
+- ¿Qúe interacciones del usuario tiene?
+- ¿Qué información recibe y desde donde?
+
+- **Keyboard**
 - ¿Qué renderiza?
 - ¿Qúe interacciones del usuario tiene?
 - ¿Qué información recibe y desde donde?
