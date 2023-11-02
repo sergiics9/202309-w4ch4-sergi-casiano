@@ -25,18 +25,18 @@ Separa todo en los siguientes componentes:
 Entrega también un listado de responsabilidades en el README
 
 - **Info**
-- ¿Qué renderiza?
-- ¿Qúe interacciones del usuario tiene?
-- ¿Qué información recibe y desde donde?
+- ¿Qué renderiza? El texto Calling...
+- ¿Qúe interacciones del usuario tiene? Ninguna
+- ¿Qué información recibe y desde donde? Recibe que cuando el usuario pulsa el boton de call se renderice el texto
 
 - **Display**
-- ¿Qué renderiza?
-- ¿Qúe interacciones del usuario tiene?
-- ¿Qué información recibe y desde donde?
+- ¿Qué renderiza? un display donde se muestran los numeros pulsados
+- ¿Qúe interacciones del usuario tiene? al pulsar un boton se muestra en el display
+- ¿Qué información recibe y desde donde? recibe informacion desde los botones de numeros
 
 - **Actions**
-- ¿Qué renderiza?
-- ¿Qúe interacciones del usuario tiene?
+- ¿Qué renderiza? los botones de call y hang
+- ¿Qúe interacciones del usuario tiene? al pulsar call que llame
 - ¿Qué información recibe y desde donde?
 
 - **Keyboard**
