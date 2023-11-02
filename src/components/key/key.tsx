@@ -1,7 +1,7 @@
 export function Key() {
   return (
     <>
-      <li>
+      <li aria-label="listitem">
         <button className="key">1</button>
       </li>
       <li>

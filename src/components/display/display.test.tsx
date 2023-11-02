@@ -1,15 +1,15 @@
 import { screen, render } from '@testing-library/react';
 import '@testing-library/jest-dom';
-import { Keyboard } from './keyboard';
+import { Display } from './display';
 
-describe('Given Keyboard component', () => {
+describe('Given Display component', () => {
   describe('When we instantiate', () => {
     beforeEach(() => {
-      render(<Keyboard></Keyboard>);
+      render(<Display></Display>);
     });
 
     test('Then it should be in the document', () => {
-      const element = screen.getByRole('list');
+      const element = screen.getByText('667359961');
       expect(element).toBeInTheDocument();
     });
   });

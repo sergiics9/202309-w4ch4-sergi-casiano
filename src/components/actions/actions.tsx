@@ -3,7 +3,7 @@ import { Display } from '../display/display';
 
 export function Actions() {
   return (
-    <div className="actions">
+    <div className="actions" role="actions">
       <Display></Display>
       <Action></Action>
     </div>
